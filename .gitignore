@@ -1,0 +1,15 @@
+# Compiler files
+Aula1/cache/
+Aula2/cache/
+Aula1/out/
+Aula2/out/
+
+# Ignores development broadcast logs
+Aula1/broadcast/
+Aula2/broadcast/
+Aula1/.github
+Aula2/.github
+Aula1/.gitmodules
+Aula2/.gitmodules
+Aula1/lib/
+Aula2/lib/
