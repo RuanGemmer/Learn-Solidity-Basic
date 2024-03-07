@@ -1,15 +1,21 @@
 # Compiler files
 Aula1/cache/
 Aula2/cache/
+Aula3-ERC20/cache/
 Aula1/out/
 Aula2/out/
+Aula3-ERC20/out/
 
 # Ignores development broadcast logs
 Aula1/broadcast/
 Aula2/broadcast/
+Aula3-ERC20/broadcast/
 Aula1/.github
 Aula2/.github
+Aula3-ERC20/.github
 Aula1/.gitmodules
 Aula2/.gitmodules
+Aula3-ERC20/.gitmodules
 Aula1/lib/
 Aula2/lib/
+Aula3-ERC20/lib/
